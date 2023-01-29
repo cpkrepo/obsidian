@@ -2,20 +2,20 @@
 
 * [X] Ready or Not
 
-* [] Hacks
+* [ ] Hacks
 
-* [] Leave Her to Heaven
+* [ ] Leave Her to Heaven
 
-* [] Summertime
+* [ ] Summertime
 
-* [] The Big Chill
+* [ ] The Big Chill
 
 * [X] Kevin Can Fuck Himself
 
-* [] You
+* [ ] You
 
-* [] Alphaville
+* [ ] Alphaville
 
-* [] Shock Corridor
+* [ ] Shock Corridor
 
-* [] Seconds
+* [ ] Seconds

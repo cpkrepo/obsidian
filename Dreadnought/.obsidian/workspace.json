@@ -8,31 +8,175 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8176ede78baf18c0",
+            "id": "43778966665f58e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Sonic Automotive Shadowing/0. Topics for Review.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "43778966665f58e5",
+            "id": "bf930b9eb7aebdec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REP - To Watch List.md",
+                "file": "Sonic Automotive Shadowing/0. Topics for Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1c81ddc474b6b0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonic Automotive Shadowing/2. Asset tracking process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd460f14c4f5188f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonic Automotive Shadowing/3. Imaging process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fdc94bb3ce801dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonic Automotive Shadowing/4. Using and accessing Active Directory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d427c0a9d5cbbff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonic Automotive Shadowing/5. Using and installing encryption tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b19a7f5a475c4942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonic Automotive Shadowing/6. Using and installing VPN software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e00f056de63e645d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonic Automotive Shadowing/7. Remote user support.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b064db0a4335fd20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonic Automotive Shadowing/8. Using data backup of data migration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bbab8de017f3a5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonic Automotive Shadowing/9. Software installs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c0669f3de0c65fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonic Automotive Shadowing/10. Conference room support.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd7303410d1e8490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonic Automotive Shadowing/11. Moving hardware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44d1aea6585d55ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonic Automotive Shadowing/12. Sonic automotive ServiceNow training.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48606778e32978ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonic Automotive Shadowing/13. Culture training.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -98,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REP - To Watch List.md",
+                "file": "Sonic Automotive Shadowing/13. Culture training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REP - To Watch List.md",
+                "file": "Sonic Automotive Shadowing/13. Culture training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REP - To Watch List.md"
+                "file": "Sonic Automotive Shadowing/13. Culture training.md"
               }
             }
           }
@@ -146,8 +290,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +302,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43778966665f58e5",
+  "active": "2658da2624d6a7d2",
   "lastOpenFiles": [
-    "Readme.md"
+    "Sonic Automotive Shadowing/12. Sonic automotive ServiceNow training.md",
+    "Sonic Automotive Shadowing/9. Software installs.md",
+    "Sonic Automotive Shadowing/10. Conference room support.md",
+    "Sonic Automotive Shadowing/8. Using data backup of data migration.md",
+    "Sonic Automotive Shadowing/7. Remote user support.md",
+    "Sonic Automotive Shadowing/6. Using and installing VPN software.md",
+    "Sonic Automotive Shadowing/5. Using and installing encryption tools.md",
+    "Sonic Automotive Shadowing/4. Using and accessing Active Directory.md",
+    "Sonic Automotive Shadowing/3. Imaging process.md",
+    "Sonic Automotive Shadowing/2. Asset tracking process.md",
+    "Sonic Automotive Shadowing/1. Scheduling visits to locations supported.md",
+    "Sonic Automotive Shadowing/0. Topics for Review.md",
+    "Sonic Automotive Shadowing/13. Culture training.md",
+    "REP - To Watch List.md",
+    "Sonic Automotive Shadowing/11. Moving hardware.md",
+    "Untitled",
+    "Readme.md",
+    "New Podcast Ideas.md",
+    "Sonic Automotive Shadowing"
   ]
 }
